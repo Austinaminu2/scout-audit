@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Scout Audit — Soroban Security Workspace',
+  description: 'Prepare, analyze, and review Soroban smart contracts with Scout Audit.',
   generator: 'v0.app',
   icons: {
     icon: [
