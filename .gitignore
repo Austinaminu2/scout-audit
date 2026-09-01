@@ -13,3 +13,10 @@ __v0_jsx-dev-runtime.ts
 node_modules
 .next/
 .DS_Store
+
+# Next.js/TypeScript build artifacts
+next-env.d.ts
+tsconfig.tsbuildinfo
+
+# Local exported audit reports (test output, not source)
+/reports/
